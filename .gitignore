@@ -1,0 +1,7 @@
+*~
+*.sqlite
+*.pyc
+*#
+test_daily*
+results/*
+log/*

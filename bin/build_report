@@ -1,0 +1,1 @@
+fl-build-report --html results/elcid-uch-bench.xml | grep index.html | xargs open
