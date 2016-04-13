@@ -23,6 +23,7 @@ To run:
     # with a max throughput of 600 messages/second
     python gloss/tests/load_test.py -d 8 -t 600 
     
+    # In a separate shell
     cd ./loadtesting
     # Runs the test_daily method of the class elCID in the file elcid_test.py
     fl-run-bench elcid_test.py elCID.test_daily
